@@ -2,8 +2,12 @@
 
 > **High-Performance Engineering Portfolio** featuring interactive 3D card extraction, multi-skin theme switcher (Dark F1, Cyber Neon, Pastel Studio, Retro Arcade), hackathon showcase, and dynamic interactive mechanics.
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live%20Demo-black?logo=vercel)](https://nishant-portfolio-bice.vercel.app)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://nishant-kumar-007.github.io/Nishant-Portfolio/)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Portfolio](https://img.shields.io/badge/portfolio-live-brightgreen.svg)](https://nishant-kumar-007.github.io/Nishant-Portfolio/)
+
+🌐 **Live on Vercel:** [https://nishant-portfolio-bice.vercel.app](https://nishant-portfolio-bice.vercel.app)  
+🌐 **GitHub Repository:** [https://github.com/Nishant-Kumar-007/Nishant-Portfolio](https://github.com/Nishant-Kumar-007/Nishant-Portfolio)
 
 ---
 
